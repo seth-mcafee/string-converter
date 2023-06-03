@@ -80,6 +80,10 @@ body {
   #outputText {
     font-size: 18px;
     margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
   }
   
   .copy-button {
